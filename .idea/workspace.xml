@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2283f307-1e98-4b3f-8d60-a6c9285404d2" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/Listagram/composer.json</pharConfigPath>
+    <execution>
+      <executable path="composer" />
+    </execution>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/Listagram/vendor/dragonmantank/cron-expression" />
+      <path value="$PROJECT_DIR$/Listagram/vendor/composer" />
+      <path value="$PROJECT_DIR$/Listagram/vendor/league/flysystem" />
+      <path value="$PROJECT_DIR$/Listagram/vendor/egulias/email-validator" />
+      <path value="$PROJECT_DIR$/Listagram/vendor/phpoption/phpoption" />
+      <path value="$PROJECT_DIR$/Listagram/vendor/tijsverkoyen/css-to-inline-styles" />
+      <path value="$PROJECT_DIR$/Listagram/vendor/mockery/mockery" />
+      <path value="$PROJECT_DIR$/Listagram/vendor/dnoegel/php-xdg-base-dir" />
+      <path value="$PROJECT_DIR$/Listagram/vendor/monolog/monolog" />
+      <path value="$PROJECT_DIR$/Listagram/vendor/myclabs/deep-copy" />
+      <path value="$PROJECT_DIR$/Listagram/vendor/fzaninotto/faker" />
+      <path value="$PROJECT_DIR$/Listagram/vendor/filp/whoops" />
+      <path value="$PROJECT_DIR$/Listagram/vendor/paragonie/random_compat" />
+      <path value="$PROJECT_DIR$/Listagram/vendor/scrivo/highlight.php" />
+      <path value="$PROJECT_DIR$/Listagram/vendor/theseer/tokenizer" />
+      <path value="$PROJECT_DIR$/Listagram/vendor/fideloper/proxy" />
+      <path value="$PROJECT_DIR$/Listagram/vendor/webmozart/assert" />
+      <path value="$PROJECT_DIR$/Listagram/vendor/facade/flare-client-php" />
+      <path value="$PROJECT_DIR$/Listagram/vendor/facade/ignition-contracts" />
+      <path value="$PROJECT_DIR$/Listagram/vendor/facade/ignition" />
+      <path value="$PROJECT_DIR$/Listagram/vendor/erusev/parsedown" />
+      <path value="$PROJECT_DIR$/Listagram/vendor/swiftmailer/swiftmailer" />
+      <path value="$PROJECT_DIR$/Listagram/vendor/vlucas/phpdotenv" />
+      <path value="$PROJECT_DIR$/Listagram/vendor/laravel/tinker" />
+      <path value="$PROJECT_DIR$/Listagram/vendor/laravel/framework" />
+      <path value="$PROJECT_DIR$/Listagram/vendor/psy/psysh" />
+      <path value="$PROJECT_DIR$/Listagram/vendor/nunomaduro/collision" />
+      <path value="$PROJECT_DIR$/Listagram/vendor/phpspec/prophecy" />
+      <path value="$PROJECT_DIR$/Listagram/vendor/phpdocumentor/reflection-common" />
+      <path value="$PROJECT_DIR$/Listagram/vendor/phpdocumentor/reflection-docblock" />
+      <path value="$PROJECT_DIR$/Listagram/vendor/phpdocumentor/type-resolver" />
+      <path value="$PROJECT_DIR$/Listagram/vendor/nesbot/carbon" />
+      <path value="$PROJECT_DIR$/Listagram/vendor/hamcrest/hamcrest-php" />
+      <path value="$PROJECT_DIR$/Listagram/vendor/phpunit/phpunit" />
+      <path value="$PROJECT_DIR$/Listagram/vendor/phpunit/php-code-coverage" />
+      <path value="$PROJECT_DIR$/Listagram/vendor/phpunit/php-file-iterator" />
+      <path value="$PROJECT_DIR$/Listagram/vendor/phpunit/php-timer" />
+      <path value="$PROJECT_DIR$/Listagram/vendor/nikic/php-parser" />
+      <path value="$PROJECT_DIR$/Listagram/vendor/phpunit/php-text-template" />
+      <path value="$PROJECT_DIR$/Listagram/vendor/phpunit/php-token-stream" />
+      <path value="$PROJECT_DIR$/Listagram/vendor/ramsey/uuid" />
+      <path value="$PROJECT_DIR$/Listagram/vendor/symfony/event-dispatcher" />
+      <path value="$PROJECT_DIR$/Listagram/vendor/symfony/polyfill-intl-idn" />
+      <path value="$PROJECT_DIR$/Listagram/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/Listagram/vendor/symfony/event-dispatcher-contracts" />
+      <path value="$PROJECT_DIR$/Listagram/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/Listagram/vendor/symfony/polyfill-iconv" />
+      <path value="$PROJECT_DIR$/Listagram/vendor/psr/simple-cache" />
+      <path value="$PROJECT_DIR$/Listagram/vendor/symfony/css-selector" />
+      <path value="$PROJECT_DIR$/Listagram/vendor/symfony/routing" />
+      <path value="$PROJECT_DIR$/Listagram/vendor/symfony/mime" />
+      <path value="$PROJECT_DIR$/Listagram/vendor/phar-io/manifest" />
+      <path value="$PROJECT_DIR$/Listagram/vendor/symfony/process" />
+      <path value="$PROJECT_DIR$/Listagram/vendor/jakub-onderka/php-console-color" />
+      <path value="$PROJECT_DIR$/Listagram/vendor/opis/closure" />
+      <path value="$PROJECT_DIR$/Listagram/vendor/phar-io/version" />
+      <path value="$PROJECT_DIR$/Listagram/vendor/symfony/debug" />
+      <path value="$PROJECT_DIR$/Listagram/vendor/jakub-onderka/php-console-highlighter" />
+      <path value="$PROJECT_DIR$/Listagram/vendor/symfony/service-contracts" />
+      <path value="$PROJECT_DIR$/Listagram/vendor/sebastian/type" />
+      <path value="$PROJECT_DIR$/Listagram/vendor/symfony/translation-contracts" />
+      <path value="$PROJECT_DIR$/Listagram/vendor/sebastian/code-unit-reverse-lookup" />
+      <path value="$PROJECT_DIR$/Listagram/vendor/symfony/translation" />
+      <path value="$PROJECT_DIR$/Listagram/vendor/sebastian/version" />
+      <path value="$PROJECT_DIR$/Listagram/vendor/symfony/console" />
+      <path value="$PROJECT_DIR$/Listagram/vendor/sebastian/object-reflector" />
+      <path value="$PROJECT_DIR$/Listagram/vendor/symfony/finder" />
+      <path value="$PROJECT_DIR$/Listagram/vendor/sebastian/comparator" />
+      <path value="$PROJECT_DIR$/Listagram/vendor/symfony/var-dumper" />
+      <path value="$PROJECT_DIR$/Listagram/vendor/sebastian/environment" />
+      <path value="$PROJECT_DIR$/Listagram/vendor/symfony/http-kernel" />
+      <path value="$PROJECT_DIR$/Listagram/vendor/sebastian/object-enumerator" />
+      <path value="$PROJECT_DIR$/Listagram/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/Listagram/vendor/sebastian/exporter" />
+      <path value="$PROJECT_DIR$/Listagram/vendor/symfony/http-foundation" />
+      <path value="$PROJECT_DIR$/Listagram/vendor/sebastian/diff" />
+      <path value="$PROJECT_DIR$/Listagram/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/Listagram/vendor/sebastian/global-state" />
+      <path value="$PROJECT_DIR$/Listagram/vendor/symfony/polyfill-php72" />
+      <path value="$PROJECT_DIR$/Listagram/vendor/sebastian/recursion-context" />
+      <path value="$PROJECT_DIR$/Listagram/vendor/symfony/polyfill-php73" />
+      <path value="$PROJECT_DIR$/Listagram/vendor/sebastian/resource-operations" />
+      <path value="$PROJECT_DIR$/Listagram/vendor/doctrine/lexer" />
+      <path value="$PROJECT_DIR$/Listagram/vendor/doctrine/instantiator" />
+      <path value="$PROJECT_DIR$/Listagram/vendor/doctrine/inflector" />
+      <path value="$PROJECT_DIR$/Listagram/vendor/laravel/ui" />
+      <path value="$PROJECT_DIR$/Listagram/vendor/ralouphie/getallheaders" />
+      <path value="$PROJECT_DIR$/Listagram/vendor/intervention/image" />
+      <path value="$PROJECT_DIR$/Listagram/vendor/psr/http-message" />
+      <path value="$PROJECT_DIR$/Listagram/vendor/guzzlehttp/psr7" />
+      <path value="$PROJECT_DIR$/Listagram/vendor/laravel/telescope" />
+      <path value="$PROJECT_DIR$/Listagram/vendor/moontoast/math" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="1RVHI5535SU6bnaACany8GjgZnK" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Listagram/resources/views/posts" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\Projects\Php Projects\Laravel Framework\Listagram\resources\views\posts" />
+      <recent name="F:\Projects\Php Projects\Laravel Framework\Listagram\resources\views\profiles" />
+      <recent name="F:\Projects\Php Projects\Laravel Framework\Listagram\public\logo" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\Projects\Php Projects\Laravel Framework\Listagram\resources\views\posts" />
+      <recent name="F:\Projects\Php Projects\Laravel Framework\Listagram\resources\views\profiles" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2283f307-1e98-4b3f-8d60-a6c9285404d2" name="Default Changelist" comment="" />
+      <created>1569745260732</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1569745260732</updated>
+      <workItem from="1569745274399" duration="200000" />
+      <workItem from="1569745582967" duration="174000" />
+      <workItem from="1569745881200" duration="25000" />
+      <workItem from="1569745935666" duration="24290000" />
+      <workItem from="1569907287883" duration="9669000" />
+      <workItem from="1577003806692" duration="2051000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
